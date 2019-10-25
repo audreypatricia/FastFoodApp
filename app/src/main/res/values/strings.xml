@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FastFoodApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="our_story">Made from the best ingredients, every meal you have at Borger Kong is locally sourced and made fresh everyday. Our story starts with 2 best friends who grew tired of poor quality burgers you may find in other fast food shops. But here at Borger Kong quality is guaranteed </string>
+</resources>
